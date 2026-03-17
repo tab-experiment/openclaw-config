@@ -1,8 +1,0 @@
-Outlook.com credentials:
-Address: tab-experiment@outlook.com
-Password: OpenClaw123!@#$
-Birthdate: 1990/12/01
-First name: Tab
-Last name: Experiment
-
-Note: IMAP login attempts failed (AUTHENTICATE failed, then LOGIN failed). Possibly IMAP not enabled, need app password, or further activation required.
